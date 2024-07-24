@@ -1,5 +1,5 @@
 //Accountts.ts
-import { CustomerTS } from "./Customer";
+
 export class AccountTS {
     accountId?: string;
     customerId: string;

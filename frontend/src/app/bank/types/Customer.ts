@@ -1,5 +1,5 @@
 //Accou.ts
-import { TransactionTS } from "./Transaction";
+
 export class CustomerTS {
     customerId?: string;
     name: string;
