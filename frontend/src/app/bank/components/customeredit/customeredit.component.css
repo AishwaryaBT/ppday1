@@ -17,7 +17,6 @@
   }
   
   input[type="text"],
-  input[type="password"],
   input[type="email"],
   select {
     width: 100%;
@@ -60,7 +59,6 @@
     margin-top: 10px;
     color: #28a745;
   }
-  
   .navbar {
     background-color: #333;
     overflow: hidden;
@@ -89,3 +87,5 @@
     background-color: #ddd;
     color: black;
   }
+  
+  
